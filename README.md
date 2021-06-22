@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/cyrilwongmy/ImgRepo/master/img/20210622204355.png"/>
+<img src="https://raw.githubusercontent.com/cyrilwongmy/ImgRepo/master/img/20210622204355.png" width="975" height="500"/>
  
 ### Hi there 👋, I'm Mingyan(Cyril) Wang. I'm a back-end developer and system lover. Welcome to my gh page! <br>
  
