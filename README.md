@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm Mingyan(Cyril) Wang. I'm a back-end developer and system lover. Welcome to my gh page! <br>
  
 - 🍻 Senior(Coming Year 4 Student) at 🇨🇳 [UNNC](https://www.nottingham.edu.cn/en/index.aspx), _BSc in Computer Science_
-- ⚡ Java / C++.
+- ⚡ C++ / Golang(learning) / Rust(learning).
 - 📒 VMaiL project contributor
 - ✍️ [Blogger](http://mywong.cn)
 - 🔭 *Currently working on*:  OS, Computer Netwokring, Database
