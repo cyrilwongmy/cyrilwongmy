@@ -2,15 +2,13 @@
  
 ### Hi there 👋, I'm Mingyan(Cyril) Wang. I'm a back-end developer and system lover. Welcome to my gh page! <br>
  
-- 🍻 Senior(Coming Year 4 Student) at 🇨🇳 [UNNC](https://www.nottingham.edu.cn/en/index.aspx), _BSc in Computer Science_
-- 🖥 Currently, backend internship at Didiglobal, a Chinese vehicle for hire company.
-- ⚡ C++ / Golang(learning) / Rust(learning).
+- 🍻 NYU ECE Student
+- 🖥 I had a backend internship at Didiglobal, a Chinese vehicle for hire company.
+- ⚡  Java / C++ / Golang / Rust.
 - 📒 VMaiL project contributor
-- ✍️ [Blogger](http://mywong.cn)
-- 🔭 *Currently working on*:  OS, Computer Netwokring, Database
-- 🌱 *Currently Learning*: Networking and MySQL<br>
+- 🔭 *Currently working on*:  OS, Computer Netwokring, Database, K-V system using Rust and C++
 - 😄 Neovim user, prefer mouseless working, remote working embracer(Why? Linux developed by people around the world in a remote way)
-- 🤔 *Looking for help*: I'm looking for help with trying to find my first software engineering job in this current job climate.<br>
+- 🤔 *Looking for help*: I'm looking for help with trying to find my software engineering job in this current job climate.<br>
 - 📫 How to reach me: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](scymw2@nottingham.edu.cn)
 
