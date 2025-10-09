@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mingyan Wang
 
-I’m currently working on **Query Service** at **Salesforce Inc.**  
+I’m currently working on **Query Service** as a backend software engineer at **Salesforce Inc.**  
 I enjoy building distributed systems, optimizing performance, and exploring database and systems internals.
 
 ---
