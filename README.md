@@ -1,7 +1,10 @@
 # 👋 Hi, I'm Mingyan Wang
 
-I’m currently working on **Query Service** as a backend software engineer at **Salesforce Inc.**  
+I’m currently working on **Query Service** at **Salesforce Inc.**  
+As a backend software engineer, I have a deep understanding of **Java**, **JDK/JVM internals**, **MySQL**, and **Kafka** — from design principles to low-level implementation details.  
 I enjoy building distributed systems, optimizing performance, and exploring database and systems internals.
+
+
 
 ---
 
