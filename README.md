@@ -40,3 +40,6 @@ I enjoy building distributed systems, optimizing performance, and exploring data
 ---
 
 ⭐️ *“Build systems, not just code.”*
+
+![](https://komarev.com/ghpvc/?username=cyrilwongmy)
+
